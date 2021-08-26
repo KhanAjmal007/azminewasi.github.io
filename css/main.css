@@ -1,30 +1,3 @@
-/*
-*	THE BOOK (HTML version)
-* 	Copyright 2016
-* 	www.mutationmedia.net
-* 	Created by : mutationthemes
-*
-*/
-
-
-/** Table of Content
-==================================================
-1-Preloader
-2-Header
-
-3-Tabs sections : 
-  3/1-About tab
-  3/2-Resume tab
-  3/3-Portfolio tab
-  3/4-Blog tab
-  3/5-Contact tab
-
-4-Footer
-5-Media queries
-
-
-/** Preloader **/
-
 .loader {
     background: #eaeaea;
     bottom: 0;
