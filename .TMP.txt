@@ -1,0 +1,14 @@
+<div class="timeline-inner ">
+											<div class="name switched">
+												<span class="date">April 2022 - Present <em>Current</em> </span>
+												<h4>Project Executive</br>10 Minute School</h4>
+												<span class="date">Part time</span>
+											</div>
+											<div class="detail">
+												<p>
+													▪ Led/Co-ordinated 15+ projects/segments | Developed 5+ Automation Tools improving productivity 500%. </br>
+													▪ Developed and maintained 45+ interconnected and automated spreadsheets with interactive dashboards.</br>
+													▪ Actively involved in development of 5000+ academic & non-academic contents.</br>
+													▪ Lead, Content Design Team, 10MS Jobs - Admissions.
+											</div>
+										</div>
