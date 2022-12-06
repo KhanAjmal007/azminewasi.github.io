@@ -68,7 +68,7 @@ img {
 #map img { max-width: none; }
 
 *::-moz-selection {
-    background: #ffd42d;
+    background: #FFD700;
     color: #2a2a2a;
 }
 
@@ -131,7 +131,7 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	}
 	
 	.sub-title h2:before {
-		background: #ffd42d;
+		background: #FFD700;
 		content: "";
 		height: 8px;
 		left: 50%;
@@ -234,8 +234,8 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	
 	.but:hover{
 		color:#2a2a2a;
-		background:#ffd42d;
-		border:1px solid #ffd42d;
+		background:#FFD700;
+		border:1px solid #FFD700;
 	}
 	
 	
@@ -345,7 +345,7 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	.pd-r0{padding-right:0 !important;}
 	.pd-l0{padding-left:0 !important;}
 	.emph-1{color:#2a2a2a;}
-	.emph-2{color:#ffd42d;}
+	.emph-2{color:#FFD700;}
 	.emph-3{font-style:italic;}
 	.emph-4{color:#535353;}
 
