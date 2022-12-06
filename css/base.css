@@ -85,7 +85,7 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	body {
 		background: #eaeaea;
 		font: 14px/22px "Source Sans Pro","Helvetica","Arial",sans-serif;
-		color: #999999;
+		color: #525050;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
 		margin:0;
@@ -112,14 +112,14 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 
 	.main-title h3 {
 		font-size: 20px;
-		color:#999999;
+		color:#3d3d3d;
 		font-weight: 300;
 	}
 	
 	
 	.main-title h5 {
 		font-size: 15px;
-		color:#999999;
+		color:#3d3d3d;
 		font-weight: 300;
 	}
 	
@@ -195,7 +195,7 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	
 	
 	input[type="text"]::-moz-placeholder, input[type="email"]::-moz-placeholder, textarea::-moz-placeholder, input[type="search"]::-moz-placeholder {
-	    color: #999999;
+	    color: #4b4b4b;
 	}
 	
 	
@@ -347,7 +347,7 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	.emph-1{color:#2a2a2a;}
 	.emph-2{color:#ffd42d;}
 	.emph-3{font-style:italic;}
-	.emph-4{color:#999999;}
+	.emph-4{color:#535353;}
 
 
 
