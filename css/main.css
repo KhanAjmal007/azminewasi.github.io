@@ -537,7 +537,7 @@ img.signature{
 }
 
 .timeline .timeline-inner .name span.date em {
- 	background:#f3c33d;
+ 	background:#FFD700;
     border-radius: 3px;
 	-moz-border-radius:3px;
 	-webkit-border-radius :3px;
@@ -554,7 +554,7 @@ img.signature{
 }
 
 .timeline .timeline-inner .detail span.skillvl em {
-	background:#f3c33d;
+	background:#FFD700;
    border-radius: 3px;
    -moz-border-radius:3px;
    -webkit-border-radius :3px;
