@@ -526,7 +526,7 @@ img.signature{
 .timeline .timeline-inner .name h4 {
     margin-bottom: 0;
 	font-size: 15px;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 
@@ -554,7 +554,7 @@ img.signature{
 }
 
 .timeline .timeline-inner .detail span.skillvl em {
-	background:#06AEFC;
+	background:#f3c33d;
    border-radius: 3px;
    -moz-border-radius:3px;
    -webkit-border-radius :3px;
@@ -694,8 +694,8 @@ ul.hb-list li {
 
 
 ul.hb-list li span {
-    border: 1px solid #fcfa91;
-    color: #FFD700;
+    border: 1px solid #3b3b3b;
+    color: #4b4b4b;
     display: block;
     height: 45px;
     width: 45px;
@@ -1074,8 +1074,7 @@ ul.hb-list li h6 {
 .post-title h4, .post-title a{
 	font-size:24px;
 	color:#2a2a2a;
-    font-weight: 300;
-	text-transform:capitalize;
+    font-weight: 550;
 	
 }
 
