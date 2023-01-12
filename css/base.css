@@ -173,11 +173,21 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 		}
 	
 	
-	
+a:visited {
+	color: rgb(68, 68, 68);
+	}
 	.uppercase{
 		text-transform:uppercase;
 	    font-weight: 800;
 	}
+
+	.uppercasex a:link {
+		color: #252525;
+	  }
+
+	.uppercasex a:hover {
+		color: #115735;
+	  }
 
 	.uppercasex{
 	    font-weight: 550;
