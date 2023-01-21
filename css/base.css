@@ -209,6 +209,31 @@ a:visited {
 		visibility: visible;
 	  }
 
+	  .cgz:before{
+		content: attr(data-hover);
+		visibility: hidden;
+		opacity: 0;
+		font-size: 20px;
+		height: 24px;
+		width: max-content;
+		background-color: rgb(233, 210, 8);
+		color: rgb(12, 9, 9);
+		text-align: center;
+		border-radius: 5px;
+		padding: 0px 10px;
+		transition: opacity 0.5s ease-in-out;
+		font-weight: 600;
+	  
+		position: absolute;
+		z-index: 1;
+		left: 33%;
+		top: 50%;
+	}
+
+	.cgz:hover:before {
+		opacity: 1;
+		visibility: visible;
+	  }
 	.uppercasex a:link {
 		color: #252525;
 	  }
