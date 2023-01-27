@@ -1,0 +1,42 @@
+title: "চলছে গাড়ি যাত্রাবাড়ি"
+author: "আজমাইন তৌসিক ওয়াসি"
+description: "আমার সব সেমি-আজাইরা বয়ান, বকবক, লিখালিখি-সহ যখন যা মনে চায় সবকিছুর আস্তানা!" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+
+# Email / Social media user names used by the minima theme:
+# All of these are optional and can be removed or commented out
+email: "azminetoushik.wasi@mail.com"
+twitter_username: "AzmineWasi"
+github_username: "azminewasi"
+linkedin_username: "azmin-toushik-wasi"
+facebook_username: "cholche.gari.zatrabari"
+#flickr_username: username
+instagram_username: "_cholche_gari_jatrabari_"
+#pinterest_username: username
+#youtube_username: username
+#googleplus_username: +username
+
+#########################################################################################
+######### Nothing below needs to be changed (unless you know what you're doing) #########
+#########################################################################################
+theme: "minima"
+
+rss: rss
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+    
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
