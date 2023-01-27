@@ -15,12 +15,6 @@
 
 ---
 
-[Go to blog](./blog.md)
-
-[Go to folder blog](./f1/blog.md)
-
----
-
 ## **DataCamp Signal™ Assessments Results :** 
 
 - Understanding and Interpreting Data
