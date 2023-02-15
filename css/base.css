@@ -144,10 +144,31 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 		-ms-transform: translate(-50%,0);
 		-o-transform: translate(-50%,0);
 	}
+	.sub-title-2 h2 {
+		font-size: 20px;
+		font-weight: 700;
+		display:inline-block;
+		position:relative;
+	}
+	
+	.sub-title-2 h2:before {
+		background: #838383;
+		content: "";
+		height: 5px;
+		left: 50%;
+		position: absolute;
+		top: -20px;
+		width: 30px;
+		transform:translate3d(-50%,0,0);
+		-webkit-transform:translate3d(-50%,0,0);
+		-ms-transform: translate3d(-50%,0,0);
+		-ms-transform: translate(-50%,0);
+		-o-transform: translate(-50%,0);
+	}
 
 
 		
-	.block-post.single blockquote, .post-title h4, .post-title a, .work  .item a .desc h5 span, .filter li a, .block-quote .block-profile, .listing-large  a
+	.block-post.single blockquote, .post-title h4, .post-title a,.post-title-up h4, .post-title-up a, .work  .item a .desc h5 span, .filter li a, .block-quote .block-profile, .listing-large  a
 	,.listing-large .listing-event .data.right li:nth-child(2) ul li, .timeline .timeline-inner .name span.date, .page-number , .listing .listing-event .data li, .listing  a
 	, .main-nav ul li, 	h1, h2, h3, h4, h5, h6, .but span, .author a  {
 		font-family: "Roboto Slab","Helvetica","Arial",sans-serif;
@@ -171,8 +192,12 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 			-o-border-radius: 100%;
 	
 		}
-	
-	
+
+	.post-title-up{
+			text-transform:uppercase;
+			margin-bottom:6px;
+		}
+
 a:visited {
 	color: rgb(68, 68, 68);
 	}
@@ -244,10 +269,23 @@ a:visited {
 
 	.uppercasex{
 	    font-weight: 550;
-		font-size: 16px;
+		font-size: 18px;
 		margin-bottom:2px;
 	}
-	
+
+	.uppercasex2 a:link {
+		color: #252525;
+	  }
+
+	.uppercasex2 a:hover {
+		color: #115735;
+	  }
+
+	.uppercasex2{
+	    font-weight: 650;
+		font-size: 18px;
+		margin-bottom:12px;
+	}
 	.white{
 		color:#ffffff;
 	}

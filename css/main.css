@@ -820,7 +820,7 @@ ul.hb-list li h6 {
 }
 
 .block-service .ico {
-    color: #FFD700;
+    color: #757575;
     font-size: 30px;
 }
 
@@ -1075,7 +1075,16 @@ ul.hb-list li h6 {
 	font-size:24px;
 	color:#2a2a2a;
     font-weight: 600;
-	
+}
+
+.post-title-up a, .post-title-up h1, span.meta-date{
+	display:inline-block;
+}
+
+.post-title-up h4, .post-title-up a{
+	font-size:24px;
+	color:#2a2a2a;
+    font-weight: 600;
 }
 
 .post-meta li {
@@ -1446,6 +1455,7 @@ ul.hb-list li h6 {
 	.listing-large a.btn-1{left: 19.4%;}
 	.rating span{margin:0 1px;}
 	.post-title h4, .post-title a{font-size:23px;}
+	.post-title-up h4, .post-title-up a{font-size:23px;}
 	.block-nav-work li a{padding:30px 56px;}
 	.block-info .col-md-4{width:100%;}
 	.block-info .col-md-4:not(:last-child){margin-bottom:30px;}
@@ -1478,6 +1488,7 @@ ul.hb-list li h6 {
 	.listing-large a.btn-1{left: 19.4%;}
 	.rating span{margin:0 1px;}
 	.post-title h4, .post-title a{font-size:23px;}
+	.post-title-up h4, .post-title-up a{font-size:23px;}
 	.block-nav-work li a{padding:30px 56px;}
 	.block-info .col-md-4{width:100%;}
 	.block-info .col-md-4:not(:last-child){margin-bottom:30px;}
@@ -1520,6 +1531,7 @@ ul.hb-list li h6 {
 	.rating span{margin:0 2px;}
 	.block-nav-work li a{padding:30px 18px;}
 	.post-title h4, .post-title a{font-size:23px;}
+	.post-title-up h4, .post-title-up a{font-size:23px;}
 	.block-info .col-md-4:not(:last-child){margin-bottom:30px;}
 
 }
@@ -1576,6 +1588,7 @@ ul.hb-list li h6 {
 	.portfolio.single .main-title h3{position:relative;top:-25px;}
 	.block-single .col-sm-5.col-md-offset-1 p{margin-bottom:40px;}
 	.post-title h4, .post-title a{font-size:23px;line-height: 30px;}
+	.post-title-up h4, .post-title-up a{font-size:23px;line-height: 30px;}
 	.comments .replys.children {margin-left: 20px;}
 	.input-columns .column1, .input-columns .column2{width:100%;}
 	.input-columns .column1 .column-inner{padding:0;}
@@ -1640,6 +1653,7 @@ ul.hb-list li h6 {
 	.portfolio.single .main-title h3{position:relative;top:-25px;}
 	.block-single .col-sm-5.col-md-offset-1 p{margin-bottom:40px;}
 	.post-title h4, .post-title a{font-size:23px;line-height: 30px;}
+	.post-title-up h4, .post-title-up a{font-size:23px;line-height: 30px;}
 	.comments .replys.children {margin-left: 20px;}
 	.comments .author-img{float:none;}
 	.comment-content{margin-left:0;margin-top:60px;}
