@@ -169,13 +169,13 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 
 		
 	.block-post.single blockquote, .post-title h4, .post-title a,.post-title-up h4, .post-title-up a, .work  .item a .desc h5 span, .filter li a, .block-quote .block-profile, .listing-large  a
-	,.listing-large .listing-event .data.right li:nth-child(2) ul li, .timeline .timeline-inner .name span.date, .page-number , .listing .listing-event .data li, .listing  a
+	,.listing-large .listing-event .data.right li:nth-child(2) ul li, .timeline .timeline-inner .name span.date, .company p, .page-number , .listing .listing-event .data li, .listing  a
 	, .main-nav ul li, 	h1, h2, h3, h4, h5, h6, .but span, .author a  {
 		font-family: "Roboto Slab","Helvetica","Arial",sans-serif;
 	}
 	
 	
-	.main-title h5 , .timeline .timeline-inner .name span.date em, .listing-large .listing-event .data.right li:nth-child(2) ul li span , ul.hb-list li h6, .block-quote .block-profile span, .work .item a .desc h5 span
+	.main-title h5 , .timeline .timeline-inner .name span.date em, .company p, .listing-large .listing-event .data.right li:nth-child(2) ul li span , ul.hb-list li h6, .block-quote .block-profile span, .work .item a .desc h5 span
 	,.main-nav ul li a span{
 		font-family:"Source Sans Pro","Helvetica","Arial",sans-serif;
 	}
@@ -183,7 +183,7 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	
 
 	.exp:after, .spinner, .spinner:after,  .spinner, .block-quote .block-img img,.block-pagination ul li a.selected, .block-pagination ul li a 
-	,.comments .author-img img, .rating span, .services:before, .services:after, .listing-inner:before  , .timeline .timeline-inner .name:before, .listing-large-inner:before, .listing-large-inner:after
+	,.comments .author-img img, .rating span, .services:before, .services:after, .listing-inner:before  , .company p, .timeline .timeline-inner .name:before, .listing-large-inner:before, .listing-large-inner:after
 	, ul.hb-list li span , .listing-inner:after {
 		    border-radius: 100%;
 			-moz-border-radius:100%;
@@ -196,6 +196,16 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	.post-title-up{
 			text-transform:uppercase;
 			margin-bottom:6px;
+		}
+
+		
+.company {
+			font-weight: 1000;
+			color: rgb(26, 26, 26);
+			font-size: 17px;
+			text-decoration-thickness: 10%;
+			font-family:"Source Sans Pro","Helvetica","Arial",sans-serif;
+			text-decoration: underline;
 		}
 
 a:visited {
@@ -233,6 +243,8 @@ a:visited {
 		opacity: 1;
 		visibility: visible;
 	  }
+
+
 
 	  .cgz:before{
 		content: attr(data-hover);
