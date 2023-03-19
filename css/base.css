@@ -198,9 +198,12 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 			margin-bottom:6px;
 		}
 
+.boldword{
+	font-weight: 800;
+}
 		
 .company {
-			font-weight: 600;
+			font-weight: 800;
 			color: rgb(26, 26, 26);
 			font-size: 17px;
 			font-family: "Roboto Slab","Helvetica","Arial",sans-serif;
