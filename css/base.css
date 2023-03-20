@@ -199,7 +199,14 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 		}
 
 .boldword{
+	font-weight: bold;
+}
+
+.research-class{
 	font-weight: 800;
+	text-transform:uppercase;
+	color: rgb(107, 107, 107);
+	font-size: 12px;
 }
 		
 .company {
