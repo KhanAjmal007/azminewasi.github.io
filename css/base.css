@@ -208,6 +208,13 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	color: rgb(107, 107, 107);
 	font-size: 12px;
 }
+
+.entry-date{
+	font-weight: 600;
+	text-transform:uppercase;
+	color: rgb(71, 71, 71);
+	font-size: 12px;
+}
 		
 .company {
 			font-weight: 800;
